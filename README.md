@@ -1,0 +1,2 @@
+# GPS-Receiver-Kalman-Filter-Algorithms-for-Stationary-Low-and-High-Dynamics-Applications
+ Implements and compares Kalman filtering algorithms for a low-cost GPS receiver using real NMEA data. Includes stationary, low-dynamics, and high-dynamics models (KF, EKF, adaptive KF) with MATLAB processing and Arduino-based data acquisition. Focuses on accuracy, trajectory smoothing, and robust state estimation for embedded GNSS applications.
